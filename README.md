@@ -1,13 +1,18 @@
 # hisub
 ## Privacy Policy
-WE use data used in analytics to show you content of your needs. Apart from that we do not fetch any personal data that violates users privacy.
+We do not fetch or collect any personal data or information that violates users privacy.
 
 Address
 
-vasna bhayli road
+Vasna bhayli road
 vadodara, gujarat 390007
 India
 
 Business phone number
 
-095125 24279
++91 95125 24279
+
+Email
+
+sanketwork7@gmail.com
+<input type="text" id="name" name="name"/>
