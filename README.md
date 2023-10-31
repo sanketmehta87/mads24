@@ -11,3 +11,8 @@ India
 Business phone number
 
 095125 24279
+
+Email
+
+sanketwork7@gmail.com
+<input type="text" id="name" name="name"/>
