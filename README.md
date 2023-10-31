@@ -10,7 +10,7 @@ India
 
 Business phone number
 
-095125 24279
++91 95125 24279
 
 Email
 
